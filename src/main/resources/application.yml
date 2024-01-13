@@ -1,0 +1,5 @@
+words:
+  word-length-limit: 2
+  active-thread-limit: 3
+  folder-path: C:\Users\mayorov\Desktop\files
+  popular-word-limit: 10
